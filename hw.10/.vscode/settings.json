@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.glsl": "cpp",
+        "typeinfo": "cpp",
+        "new": "cpp",
+        "iostream": "cpp"
+    }
+}
