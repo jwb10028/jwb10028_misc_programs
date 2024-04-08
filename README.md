@@ -22,7 +22,5 @@ License
 
 This project is open source and available under the [MIT License](LICENSE.md).
 
-cssCopy code
 
-`You can adjust the sections and descriptions according to the actual content of your`
 
